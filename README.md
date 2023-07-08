@@ -3,13 +3,14 @@ it's a ai assistant works by using openai
 
 still i am working on this project to make it more realistic.
 
-with the help of Harry from CodewithHarry channel on YouTube , i learnt t create an ai assistant by using Python programming language.
+with the help of Harry from CodewithHarry channel on YouTube , i learnt to create an ai assistant by using Python programming language.
 
 it is connected to openai playground, so all the generated ans are from Openai.
 
-YOUTUBE channel link : https://www.youtube.com/@CodeWithHarry
+YOUTUBE channel link :
+https://www.youtube.com/@CodeWithHarry
 
-i have completed this project on Pycharm application .
+i am compliting this project on Pycharm application .
 
 also downloaded few extension to connect program with audio and for listening purpose.
 

@@ -1,6 +1,7 @@
 # AI_assistant
 it's a ai assistant works by using openai 
 
+still i am working on this project to make it more realistic.
 
 with the help of Harry from CodewithHarry channel on YouTube , i learnt t create an ai assistant by using Python programming language.
 

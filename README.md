@@ -15,7 +15,7 @@ i am compliting this project on Pycharm application .
 also downloaded few extension to connect program with audio and for listening purpose.
 
 Extension Names should be downloaded in Pycharm are :
-* ![image]
+* [Extension's image]
 * (https://github.com/Black-Beard-AKS/AI_assistant/assets/83506751/b04dfb5e-0bf6-4d60-9f65-dbbc1cd74f14)
 
 
